@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\bin\Debug\net8.0\ShopShoe.Application.deps.json
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\bin\Debug\net8.0\ShopShoe.Application.dll
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\bin\Debug\net8.0\ShopShoe.Application.pdb
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ShopShoe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ShopShoe.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ShopShoe.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ShopShoe.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ShopShoe.Application.sourcelink.json
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ShopShoe.Application.dll
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\refint\ShopShoe.Application.dll
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ShopShoe.Application.pdb
+C:\Users\Admin\Desktop\MessageApp\ShopShoe\ShopShoe.Application\obj\Debug\net8.0\ref\ShopShoe.Application.dll
